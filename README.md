@@ -90,7 +90,7 @@ initializeGameServer(app, solanaConnection)
 
 1. Clone the project
 ```bash
-git clone https://github.com/yourusername/suroifi.git
+git clone https://github.com/SuroiFi/SuroiFi.git
 cd suroifi
 ```
 
