@@ -1,0 +1,36 @@
+{
+  "name": "suroifi",
+  "version": "0.1.0",
+  "description": "A Solana-based Battle Royale GameFi project",
+  "scripts": {
+    "install:all": "npm run install:client && npm run install:server",
+    "install:client": "cd client && npm install",
+    "install:server": "cd server && npm install",
+    "dev:client": "cd client && npm run dev",
+    "dev:server": "cd server && npm run dev",
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "cd client && npm run build",
+    "build:server": "cd server && npm run build",
+    "test": "npm run test:client && npm run test:server",
+    "test:client": "cd client && npm test",
+    "test:server": "cd server && npm test"
+  },
+  "keywords": [
+    "gamefi",
+    "solana",
+    "nft",
+    "blockchain",
+    "battle-royale"
+  ],
+  "author": "SuroiFi Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.3",
+    "prettier": "^2.8.8"
+  }
+}
