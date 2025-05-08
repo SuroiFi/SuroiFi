@@ -6,7 +6,6 @@
   <p>
     <a href="https://suroifi.top" target="blank">Official Website</a> ·
     <a href="https://x.com/SuroiFi" target="blank">Twitter</a> ·
-    <a href="https://discord.gg/suroifi" target="blank">Discord</a>
   </p>
 </div>
 
@@ -155,15 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Official Website: [https://suroifi.top](https://suroifi.top)
 - Twitter: [@SuroiFi](https://x.com/SuroiFi)
-- Discord: [Join our community](https://discord.gg/suroifi)
-- Email: contact@suroifi.com
 
-## 🙏 Acknowledgments
-
-- [HasangerGames](https://github.com/HasangerGames/suroi) - Original Suroi game
-- Solana Foundation - Blockchain infrastructure support
-- Our amazing developer community
-- All game testers and early supporters
 
 ---
 
